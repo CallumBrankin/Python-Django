@@ -4,5 +4,5 @@ gunicorn==19.7.1
 python-decouple==3.0
 whitenoise==3.3.0
 psycopg2==2.7.1
-pixelpin-auth-django=1.0.1
-pixelpin-auth-storage-sqlalchemy=1.0.0
+pixelpin-auth-django==1.0.1
+pixelpin-auth-storage-sqlalchemy==1.0.0
